@@ -1,7 +1,5 @@
 # Linux-Shell-OS
 
-A linux based shell made as an assignment for the Operating Systems course at IIITD.
-
 This shell handles three internal commands as well as five external commands 
 
 Internal Commands :
